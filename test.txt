@@ -1,3 +1,5 @@
 A new test file
 
 conflict resolved
+
+new line in master
