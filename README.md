@@ -8,3 +8,5 @@ Modification from remote comp
 A change after git add...
 
 And change for diff
+
+New line in master
