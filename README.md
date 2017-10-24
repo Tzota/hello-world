@@ -9,4 +9,4 @@ A change after git add...
 
 And change for diff
 
-New line in master 2
+New line in master 3
